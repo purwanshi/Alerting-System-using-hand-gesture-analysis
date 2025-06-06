@@ -1,7 +1,7 @@
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 from playsound import playsound
-import threading
+import threading #for smoothness
 from twilio.rest import Client
 import webbrowser
 import requests
